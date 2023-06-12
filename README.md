@@ -5,3 +5,4 @@ I feel pretty comfortable with the HTML portion of this assignment, we will see 
 11:43 Moving through everything pretty well, but getting stuck on resizing my images. 
 11:54 Figured out the images problem. In general not difficult but I definitely move slow. Finished with the first reciepe and need to do other two. Heading to bed due to the time and will complete in the AM. 
 Started back at 8:07AM
+Finished and pushing to GitHub 8:31AM. Project was concise and easy to follow. Also feeling more confident with commit
