@@ -1,0 +1,42 @@
+body {
+        font-family:Georgia, 'Times New Roman', Times, serif; background-color: blanchedalmond; margin: 3rem;
+}
+
+h1   {  
+        text-align: center; 
+        font-family: 'Norse', sans-serif; 
+        font-size: 70px;
+                                                      
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh; 
+    margin-right: -85px;
+  }
+
+
+.image-container img {
+        width: 400px;
+        height: 400px;
+        margin-right: 75px ;
+  }
+
+#tv {
+  position: relative;
+  width: 350px;
+  height: 250px;
+  background: white;
+  border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
+  color: white;
+  box-shadow: 20px 20px rgba(0,0,0,.15);
+  transition: all .4s ease;
+}
+#tv:hover {
+  border-radius: 0% 0% 50% 50% / 0% 0% 5% 5% ;
+  box-shadow: 10px 10px rgba(0,0,0,.25);
+}
+
+

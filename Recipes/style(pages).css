@@ -1,0 +1,36 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif; background-color: blanchedalmond; margin: 3rem; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1   {  
+    text-align: center; 
+    font-family: 'Norse', sans-serif; 
+    font-size: 70px;
+                                                  
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh; 
+    margin-right: -85px;
+  }
+
+  .ingredients {
+    margin-top: 0px;
+  }
+  
+  .ingredients ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .ingredients li {
+    margin-bottom: 8px;
+  }
+  
